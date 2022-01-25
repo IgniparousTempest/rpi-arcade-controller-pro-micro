@@ -1,5 +1,7 @@
 # Arcade Gamepad built on Arduino Pro Micro (Leonardo)
 
+Code to turn an arduino into a usb joypad for an aracde machine. To control the lights, see [IgniparousTempest/rpi-arcade-lights](https://github.com/IgniparousTempest/rpi-arcade-lights).
+
 ![](.images/controller.jpg)
 
 ![](.images/arduino_pro_micro_pinout.jpg)
